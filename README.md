@@ -7,7 +7,7 @@
 ---
 
 ## 🔗 Quick Links
-* 🚀 **[Live Interactive Dashboard](#)** *(https://app.powerbi.com/view?r=eyJrIjoiNDgzYjBkNDctOTI0Zi00NTM1LWEwODQtYTA3ZmFjMzE0NWVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)*
+* 🚀 **[Live Interactive Dashboard]([#](https://app.powerbi.com/view?r=eyJrIjoiNDgzYjBkNDctOTI0Zi00NTM1LWEwODQtYTA3ZmFjMzE0NWVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))** *(https://app.powerbi.com/view?r=eyJrIjoiNDgzYjBkNDctOTI0Zi00NTM1LWEwODQtYTA3ZmFjMzE0NWVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)*
 * 📂 **[Data Model Architecture](#-data-architecture--modeling)**
 
 ---
